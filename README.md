@@ -1,4 +1,6 @@
 ## Hi there 👋
+🌱 I’m currently studying at Government College of Engineering and Textile Technology Serampore.
+
 
 <!--
 **BinaryBard-Rakesh/BinaryBard-Rakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
